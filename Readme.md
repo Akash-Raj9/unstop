@@ -92,7 +92,7 @@ npm run dev
 ---
 
 ## Deployment
-
+https://unstop-hput.vercel.app/admin
 
 ---
 
