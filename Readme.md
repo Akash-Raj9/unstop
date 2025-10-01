@@ -97,8 +97,8 @@ npm run dev
 ---
 
 ## Admin Credentials (for testing)
-- **Email:** admin@synaphack.com  
-- **Password:** adminpass123
+- **Email:** admin@adminsynaphack.com  
+- **Password:** adminpassss123
 
 ---
 
